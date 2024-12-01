@@ -13,7 +13,7 @@ void intialize_example_module(ModuleInitializationLevel p_level) {
         return;
     }
 
-    GDREGISTER_CLASS(GDExample);
+    GDREGISTER_CLASS(UclAudioPlayer);
 }
 
 void unintialize_example_module(ModuleInitializationLevel p_level) {
