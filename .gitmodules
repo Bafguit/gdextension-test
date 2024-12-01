@@ -1,0 +1,6 @@
+[submodule "godot-cpp"]
+	path = godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
+[submodule "jack2"]
+	path = jack2
+	url = https://github.com/jackaudio/jack2.git
